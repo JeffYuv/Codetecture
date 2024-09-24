@@ -1,5 +1,5 @@
 <div align="center">  
-    <img height="50" src="./src/assets/codetecture logo.png">  
+    <img height="50" src="./src/assets/codetecture logo-f_6h0s_Q.png">  
     <h1>Codetecture</h1>
 </div>
 
